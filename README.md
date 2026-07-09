@@ -98,6 +98,3 @@ This application is designed with cloud-native principles in mind:
 
 *Developed as part of a collaborative academic course project.*
 
-```
-
-```
